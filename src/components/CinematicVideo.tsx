@@ -1,8 +1,8 @@
 import { useEffect, useRef, useState, type ReactNode } from "react";
 
 export type VideoConfig = {
-  desktop?: string;
-  mobile?: string;
+  desktop?: string | undefined;
+  mobile?: string | undefined;
   poster: string;
   label: string;
 };
