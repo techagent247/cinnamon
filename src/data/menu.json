@@ -6,37 +6,33 @@
     "name": "Cinnamon Special Wrap (St)",
     "price": "\u00a36.95",
     "description": "Served with wrap, lamb or chicken tikka marinated with special sauce served with sliced tomatoes, cucumber, lettuce, carrot, mint sauce, chef special red sauce and tamarind sauce.",
-    "allergens": []
-   },
-   {
-    "name": "Chicken",
-    "price": "\u00a36.95",
-    "description": "",
-    "allergens": []
-   },
-   {
-    "name": "Lamb",
-    "price": "\u00a36.95",
-    "description": "",
-    "allergens": []
+    "allergens": [],
+    "variants": [
+     {
+      "name": "Chicken",
+      "price": "\u00a36.95"
+     },
+     {
+      "name": "Lamb",
+      "price": "\u00a36.95"
+     }
+    ]
    },
    {
     "name": "Samosa",
     "price": "\u00a35.95",
     "description": "Spice mincemeat or vegetable stuffed in to triangular pastry.",
-    "allergens": []
-   },
-   {
-    "name": "Meat (St)",
-    "price": "\u00a35.95",
-    "description": "",
-    "allergens": []
-   },
-   {
-    "name": "Vegetable (St)",
-    "price": "\u00a35.95",
-    "description": "",
-    "allergens": []
+    "allergens": [],
+    "variants": [
+     {
+      "name": "Meat (St)",
+      "price": "\u00a35.95"
+     },
+     {
+      "name": "Vegetable (St)",
+      "price": "\u00a35.95"
+     }
+    ]
    },
    {
     "name": "Avocado & Prawn Cocktail (St)",
@@ -64,37 +60,33 @@
     "name": "Crocodile Tears (st)",
     "price": "\u00a37.95",
     "description": "(Chicken / lamb)",
-    "allergens": []
-   },
-   {
-    "name": "Chicken",
-    "price": "\u00a37.95",
-    "description": "",
-    "allergens": []
-   },
-   {
-    "name": "Lamb",
-    "price": "\u00a37.95",
-    "description": "",
-    "allergens": []
+    "allergens": [],
+    "variants": [
+     {
+      "name": "Chicken",
+      "price": "\u00a37.95"
+     },
+     {
+      "name": "Lamb",
+      "price": "\u00a37.95"
+     }
+    ]
    },
    {
     "name": "Tikka",
     "price": "\u00a36.95",
     "description": "Chunks of chicken breast or lamb marinated in exotic spices, char-grilled in the tandoori oven.",
-    "allergens": []
-   },
-   {
-    "name": "Chicken (St)",
-    "price": "\u00a36.95",
-    "description": "",
-    "allergens": []
-   },
-   {
-    "name": "Lamb (St)",
-    "price": "\u00a36.95",
-    "description": "",
-    "allergens": []
+    "allergens": [],
+    "variants": [
+     {
+      "name": "Chicken (St)",
+      "price": "\u00a36.95"
+     },
+     {
+      "name": "Lamb (St)",
+      "price": "\u00a36.95"
+     }
+    ]
    },
    {
     "name": "Tandoori Chicken (St)",
@@ -114,19 +106,17 @@
     "name": "Kebab",
     "price": "\u00a36.95",
     "description": "Shami / Reshmi",
-    "allergens": []
-   },
-   {
-    "name": "Shami (St)",
-    "price": "\u00a36.95",
-    "description": "",
-    "allergens": []
-   },
-   {
-    "name": "Reshmi (St)",
-    "price": "\u00a36.95",
-    "description": "",
-    "allergens": []
+    "allergens": [],
+    "variants": [
+     {
+      "name": "Shami (St)",
+      "price": "\u00a36.95"
+     },
+     {
+      "name": "Reshmi (St)",
+      "price": "\u00a36.95"
+     }
+    ]
    },
    {
     "name": "Ginger Lamb Chops (St)",
@@ -168,25 +158,21 @@
     "description": "Spring onion coated with egg, coriander, lentil in gram flour.",
     "allergens": [
      "Egg"
+    ],
+    "variants": [
+     {
+      "name": "Dhall (St)",
+      "price": "\u00a35.95"
+     },
+     {
+      "name": "Brinjal (St)",
+      "price": "\u00a35.95"
+     },
+     {
+      "name": "Potato (St)",
+      "price": "\u00a35.95"
+     }
     ]
-   },
-   {
-    "name": "Dhall (St)",
-    "price": "\u00a35.95",
-    "description": "",
-    "allergens": []
-   },
-   {
-    "name": "Brinjal (St)",
-    "price": "\u00a35.95",
-    "description": "",
-    "allergens": []
-   },
-   {
-    "name": "Potato (St)",
-    "price": "\u00a35.95",
-    "description": "",
-    "allergens": []
    },
    {
     "name": "Potato Patties (St)",
@@ -212,19 +198,17 @@
     "name": "Pakura",
     "price": "\u00a36.95",
     "description": "Chicken cooked with egg, coriander with gram flour.",
-    "allergens": []
-   },
-   {
-    "name": "Chicken",
-    "price": "\u00a36.95",
-    "description": "",
-    "allergens": []
-   },
-   {
-    "name": "Lamb",
-    "price": "\u00a36.95",
-    "description": "",
-    "allergens": []
+    "allergens": [],
+    "variants": [
+     {
+      "name": "Chicken",
+      "price": "\u00a36.95"
+     },
+     {
+      "name": "Lamb",
+      "price": "\u00a36.95"
+     }
+    ]
    },
    {
     "name": "Mince",
@@ -270,19 +254,17 @@
     "name": "Chaat on Puri (St)",
     "price": "\u00a37.95",
     "description": "Delicious zesty spice chicken or lamb strips. Served on a puri bread.",
-    "allergens": []
-   },
-   {
-    "name": "Chicken",
-    "price": "\u00a37.95",
-    "description": "",
-    "allergens": []
-   },
-   {
-    "name": "Lamb",
-    "price": "\u00a37.95",
-    "description": "",
-    "allergens": []
+    "allergens": [],
+    "variants": [
+     {
+      "name": "Chicken",
+      "price": "\u00a37.95"
+     },
+     {
+      "name": "Lamb",
+      "price": "\u00a37.95"
+     }
+    ]
    },
    {
     "name": "Prawn on Puri (St)",
@@ -308,19 +290,17 @@
     "name": "Tikka",
     "price": "\u00a311.95",
     "description": "Chicken / lamb",
-    "allergens": []
-   },
-   {
-    "name": "Chicken",
-    "price": "\u00a311.95",
-    "description": "",
-    "allergens": []
-   },
-   {
-    "name": "Lamb",
-    "price": "\u00a311.95",
-    "description": "",
-    "allergens": []
+    "allergens": [],
+    "variants": [
+     {
+      "name": "Chicken",
+      "price": "\u00a311.95"
+     },
+     {
+      "name": "Lamb",
+      "price": "\u00a311.95"
+     }
+    ]
    },
    {
     "name": "Tandoori Mixed Grill",
@@ -332,19 +312,17 @@
     "name": "Shashlick",
     "price": "\u00a312.95",
     "description": "Pieces of chicken or lamb flavoured with special spices and cooked with onions, green peppers and tomatoes.",
-    "allergens": []
-   },
-   {
-    "name": "Chicken",
-    "price": "\u00a312.95",
-    "description": "",
-    "allergens": []
-   },
-   {
-    "name": "Lamb",
-    "price": "\u00a312.95",
-    "description": "",
-    "allergens": []
+    "allergens": [],
+    "variants": [
+     {
+      "name": "Chicken",
+      "price": "\u00a312.95"
+     },
+     {
+      "name": "Lamb",
+      "price": "\u00a312.95"
+     }
+    ]
    },
    {
     "name": "Tandoori King Prawn",
@@ -461,25 +439,21 @@
     "name": "Roshni Sizzler",
     "price": "\u00a312.95",
     "description": "With lots of garlic, diced onions, green peppers, coriander and fresh herbs.Served on sizzler.",
-    "allergens": []
-   },
-   {
-    "name": "Chicken",
-    "price": "\u00a312.95",
-    "description": "",
-    "allergens": []
-   },
-   {
-    "name": "Lamb",
-    "price": "\u00a312.95",
-    "description": "",
-    "allergens": []
-   },
-   {
-    "name": "Beef",
-    "price": "\u00a312.95",
-    "description": "",
-    "allergens": []
+    "allergens": [],
+    "variants": [
+     {
+      "name": "Chicken",
+      "price": "\u00a312.95"
+     },
+     {
+      "name": "Lamb",
+      "price": "\u00a312.95"
+     },
+     {
+      "name": "Beef",
+      "price": "\u00a312.95"
+     }
+    ]
    },
    {
     "name": "Achari Hot",
@@ -487,229 +461,193 @@
     "description": "Cooked with mixed pickles and fresh yogurt.Sour and spicy.",
     "allergens": [
      "Milk"
+    ],
+    "variants": [
+     {
+      "name": "Chicken",
+      "price": "\u00a312.95"
+     },
+     {
+      "name": "Lamb",
+      "price": "\u00a312.95"
+     },
+     {
+      "name": "Beef",
+      "price": "\u00a312.95"
+     }
     ]
-   },
-   {
-    "name": "Chicken",
-    "price": "\u00a312.95",
-    "description": "",
-    "allergens": []
-   },
-   {
-    "name": "Lamb",
-    "price": "\u00a312.95",
-    "description": "",
-    "allergens": []
-   },
-   {
-    "name": "Beef",
-    "price": "\u00a312.95",
-    "description": "",
-    "allergens": []
    },
    {
     "name": "Shashlick Bhuna",
     "price": "\u00a313.95",
     "description": "",
-    "allergens": []
-   },
-   {
-    "name": "Chicken",
-    "price": "\u00a313.95",
-    "description": "",
-    "allergens": []
-   },
-   {
-    "name": "Lamb",
-    "price": "\u00a313.95",
-    "description": "",
-    "allergens": []
+    "allergens": [],
+    "variants": [
+     {
+      "name": "Chicken",
+      "price": "\u00a313.95"
+     },
+     {
+      "name": "Lamb",
+      "price": "\u00a313.95"
+     }
+    ]
    },
    {
     "name": "Dilkush",
     "price": "\u00a312.95",
     "description": "Fresh spinach stirred with fresh garlic, roast onions, pepper, tomatoes and green chilli.",
-    "allergens": []
-   },
-   {
-    "name": "Chicken",
-    "price": "\u00a312.95",
-    "description": "",
-    "allergens": []
-   },
-   {
-    "name": "Lamb",
-    "price": "\u00a312.95",
-    "description": "",
-    "allergens": []
-   },
-   {
-    "name": "Beef",
-    "price": "\u00a312.95",
-    "description": "",
-    "allergens": []
+    "allergens": [],
+    "variants": [
+     {
+      "name": "Chicken",
+      "price": "\u00a312.95"
+     },
+     {
+      "name": "Lamb",
+      "price": "\u00a312.95"
+     },
+     {
+      "name": "Beef",
+      "price": "\u00a312.95"
+     }
+    ]
    },
    {
     "name": "Momo Manchurian",
     "price": "\u00a312.95",
     "description": "Chef's own recipe.",
-    "allergens": []
-   },
-   {
-    "name": "Chicken",
-    "price": "\u00a312.95",
-    "description": "",
-    "allergens": []
-   },
-   {
-    "name": "Lamb",
-    "price": "\u00a312.95",
-    "description": "",
-    "allergens": []
-   },
-   {
-    "name": "Beef",
-    "price": "\u00a312.95",
-    "description": "",
-    "allergens": []
+    "allergens": [],
+    "variants": [
+     {
+      "name": "Chicken",
+      "price": "\u00a312.95"
+     },
+     {
+      "name": "Lamb",
+      "price": "\u00a312.95"
+     },
+     {
+      "name": "Beef",
+      "price": "\u00a312.95"
+     }
+    ]
    },
    {
     "name": "Shahi Rezella",
     "price": "\u00a312.95",
     "description": "Cooked with chicken, spring lamb or beef, yogurt, butter, onion, cardamom, cinnamon, garlic, ginger, cinnamon, bullet green chilli, Jafran, rose water and specially prepared thick sauce.",
-    "allergens": []
-   },
-   {
-    "name": "Chicken",
-    "price": "\u00a312.95",
-    "description": "",
-    "allergens": []
-   },
-   {
-    "name": "Lamb",
-    "price": "\u00a312.95",
-    "description": "",
-    "allergens": []
-   },
-   {
-    "name": "Beef",
-    "price": "\u00a312.95",
-    "description": "",
-    "allergens": []
+    "allergens": [],
+    "variants": [
+     {
+      "name": "Chicken",
+      "price": "\u00a312.95"
+     },
+     {
+      "name": "Lamb",
+      "price": "\u00a312.95"
+     },
+     {
+      "name": "Beef",
+      "price": "\u00a312.95"
+     }
+    ]
    },
    {
     "name": "Crocodile Tears",
     "price": "\u00a312.95",
     "description": "Chunks of chicken breast or lamb matured in a rich, spicy marinade of dill, back pepper, honey & a trace of mustard oil then roasted in the tandoor with shallots and bell peppers. Finished with a sweet pineapple sauce and baby cucumber.",
-    "allergens": []
-   },
-   {
-    "name": "Chicken",
-    "price": "\u00a312.95",
-    "description": "",
-    "allergens": []
-   },
-   {
-    "name": "Lamb",
-    "price": "\u00a312.95",
-    "description": "",
-    "allergens": []
+    "allergens": [],
+    "variants": [
+     {
+      "name": "Chicken",
+      "price": "\u00a312.95"
+     },
+     {
+      "name": "Lamb",
+      "price": "\u00a312.95"
+     }
+    ]
    },
    {
     "name": "Anu Ayam Dan Bindi & Baby Aubergine",
     "price": "\u00a312.95",
     "description": "Chicken, lamb or beef cooked with coconut milk, herbs and okra, baby corn, baby potato & baby aubergine.",
-    "allergens": []
-   },
-   {
-    "name": "Chicken",
-    "price": "\u00a312.95",
-    "description": "",
-    "allergens": []
-   },
-   {
-    "name": "Lamb",
-    "price": "\u00a312.95",
-    "description": "",
-    "allergens": []
-   },
-   {
-    "name": "Beef",
-    "price": "\u00a312.95",
-    "description": "",
-    "allergens": []
+    "allergens": [],
+    "variants": [
+     {
+      "name": "Chicken",
+      "price": "\u00a312.95"
+     },
+     {
+      "name": "Lamb",
+      "price": "\u00a312.95"
+     },
+     {
+      "name": "Beef",
+      "price": "\u00a312.95"
+     }
+    ]
    },
    {
     "name": "Shorisha",
     "price": "\u00a313.95",
     "description": "With lots of garlic, diced onions and green peppers, coriander and fresh herbs, served on sizzler.",
-    "allergens": []
-   },
-   {
-    "name": "Chicken",
-    "price": "\u00a313.95",
-    "description": "",
-    "allergens": []
-   },
-   {
-    "name": "Lamb",
-    "price": "\u00a313.95",
-    "description": "",
-    "allergens": []
-   },
-   {
-    "name": "Beef",
-    "price": "\u00a313.95",
-    "description": "",
-    "allergens": []
+    "allergens": [],
+    "variants": [
+     {
+      "name": "Chicken",
+      "price": "\u00a313.95"
+     },
+     {
+      "name": "Lamb",
+      "price": "\u00a313.95"
+     },
+     {
+      "name": "Beef",
+      "price": "\u00a313.95"
+     }
+    ]
    },
    {
     "name": "Satkora",
     "price": "\u00a312.95",
     "description": "A delicious medium dish cooked with a tropical citrus from far east & a mixture of herbs & spices. Highly flavoured.",
-    "allergens": []
-   },
-   {
-    "name": "Chicken",
-    "price": "\u00a312.95",
-    "description": "",
-    "allergens": []
-   },
-   {
-    "name": "Lamb",
-    "price": "\u00a312.95",
-    "description": "",
-    "allergens": []
-   },
-   {
-    "name": "Beef",
-    "price": "\u00a312.95",
-    "description": "",
-    "allergens": []
+    "allergens": [],
+    "variants": [
+     {
+      "name": "Chicken",
+      "price": "\u00a312.95"
+     },
+     {
+      "name": "Lamb",
+      "price": "\u00a312.95"
+     },
+     {
+      "name": "Beef",
+      "price": "\u00a312.95"
+     }
+    ]
    },
    {
     "name": "Ginger",
     "price": "\u00a312.95",
     "description": "Cooked with ginger, fresh herbs and spices",
-    "allergens": []
-   },
-   {
-    "name": "Chicken",
-    "price": "\u00a312.95",
-    "description": "",
-    "allergens": []
-   },
-   {
-    "name": "Lamb",
-    "price": "\u00a312.95",
-    "description": "",
-    "allergens": []
-   },
-   {
-    "name": "Beef",
-    "price": "\u00a312.95",
-    "description": "",
-    "allergens": []
+    "allergens": [],
+    "variants": [
+     {
+      "name": "Chicken",
+      "price": "\u00a312.95"
+     },
+     {
+      "name": "Lamb",
+      "price": "\u00a312.95"
+     },
+     {
+      "name": "Beef",
+      "price": "\u00a312.95"
+     }
+    ]
    }
   ]
  },
@@ -720,25 +658,21 @@
     "name": "Jaipuri",
     "price": "\u00a312.95",
     "description": "It is very popular in India, cooked with tomatoes, punch puron, garlic, bullet chilli, coriander, chopped onions and chef's own recipe.",
-    "allergens": []
-   },
-   {
-    "name": "Chicken",
-    "price": "\u00a312.95",
-    "description": "",
-    "allergens": []
-   },
-   {
-    "name": "Lamb",
-    "price": "\u00a312.95",
-    "description": "",
-    "allergens": []
-   },
-   {
-    "name": "Beef",
-    "price": "\u00a312.95",
-    "description": "",
-    "allergens": []
+    "allergens": [],
+    "variants": [
+     {
+      "name": "Chicken",
+      "price": "\u00a312.95"
+     },
+     {
+      "name": "Lamb",
+      "price": "\u00a312.95"
+     },
+     {
+      "name": "Beef",
+      "price": "\u00a312.95"
+     }
+    ]
    },
    {
     "name": "Honey and Mango",
@@ -746,67 +680,57 @@
     "description": "Tender pieces of chicken or lamb.Cooked with honey, sliced mango, cashew nuts, sultanas in delicious sauce.",
     "allergens": [
      "Nuts"
+    ],
+    "variants": [
+     {
+      "name": "Chicken",
+      "price": "\u00a312.95"
+     },
+     {
+      "name": "Lamb",
+      "price": "\u00a312.95"
+     },
+     {
+      "name": "Beef",
+      "price": "\u00a312.95"
+     }
     ]
-   },
-   {
-    "name": "Chicken",
-    "price": "\u00a312.95",
-    "description": "",
-    "allergens": []
-   },
-   {
-    "name": "Lamb",
-    "price": "\u00a312.95",
-    "description": "",
-    "allergens": []
-   },
-   {
-    "name": "Beef",
-    "price": "\u00a312.95",
-    "description": "",
-    "allergens": []
    },
    {
     "name": "Bengal Flame",
     "price": "\u00a312.95",
     "description": "A hot curry cooked with new potatoes in a special chilli sauce.",
-    "allergens": []
-   },
-   {
-    "name": "Chicken",
-    "price": "\u00a312.95",
-    "description": "",
-    "allergens": []
-   },
-   {
-    "name": "Lamb",
-    "price": "\u00a312.95",
-    "description": "",
-    "allergens": []
-   },
-   {
-    "name": "Beef",
-    "price": "\u00a312.95",
-    "description": "",
-    "allergens": []
+    "allergens": [],
+    "variants": [
+     {
+      "name": "Chicken",
+      "price": "\u00a312.95"
+     },
+     {
+      "name": "Lamb",
+      "price": "\u00a312.95"
+     },
+     {
+      "name": "Beef",
+      "price": "\u00a312.95"
+     }
+    ]
    },
    {
     "name": "Rum-Sam",
     "price": "\u00a313.95",
     "description": "New Nepalese dish.Chicken or lamb grilled on bone, cooked with chick peas and fresh spinach.Medium to spicy hot.",
-    "allergens": []
-   },
-   {
-    "name": "Chicken",
-    "price": "\u00a313.95",
-    "description": "",
-    "allergens": []
-   },
-   {
-    "name": "Lamb",
-    "price": "\u00a313.95",
-    "description": "",
-    "allergens": []
+    "allergens": [],
+    "variants": [
+     {
+      "name": "Chicken",
+      "price": "\u00a313.95"
+     },
+     {
+      "name": "Lamb",
+      "price": "\u00a313.95"
+     }
+    ]
    },
    {
     "name": "Purple Tiger",
@@ -820,25 +744,21 @@
     "name": "Koki Naga",
     "price": "\u00a312.95",
     "description": "Chicken, lamb or beef prepared with ginger, garlic, black peppers, coriander, spring onions and fresh green chilli.Served in rich thick hot spicy sauce.Extremely hot with small red chillies and naga pickles, old phall style.",
-    "allergens": []
-   },
-   {
-    "name": "Chicken",
-    "price": "\u00a312.95",
-    "description": "",
-    "allergens": []
-   },
-   {
-    "name": "Lamb",
-    "price": "\u00a312.95",
-    "description": "",
-    "allergens": []
-   },
-   {
-    "name": "Beef",
-    "price": "\u00a312.95",
-    "description": "",
-    "allergens": []
+    "allergens": [],
+    "variants": [
+     {
+      "name": "Chicken",
+      "price": "\u00a312.95"
+     },
+     {
+      "name": "Lamb",
+      "price": "\u00a312.95"
+     },
+     {
+      "name": "Beef",
+      "price": "\u00a312.95"
+     }
+    ]
    },
    {
     "name": "Nawabi Khana",
@@ -850,25 +770,21 @@
     "name": "Jaffron",
     "price": "\u00a312.95",
     "description": "",
-    "allergens": []
-   },
-   {
-    "name": "Chicken",
-    "price": "\u00a312.95",
-    "description": "",
-    "allergens": []
-   },
-   {
-    "name": "Lamb",
-    "price": "\u00a312.95",
-    "description": "",
-    "allergens": []
-   },
-   {
-    "name": "Beef",
-    "price": "\u00a312.95",
-    "description": "",
-    "allergens": []
+    "allergens": [],
+    "variants": [
+     {
+      "name": "Chicken",
+      "price": "\u00a312.95"
+     },
+     {
+      "name": "Lamb",
+      "price": "\u00a312.95"
+     },
+     {
+      "name": "Beef",
+      "price": "\u00a312.95"
+     }
+    ]
    },
    {
     "name": "Tetul Duck",
@@ -880,25 +796,21 @@
     "name": "Eastern Punch",
     "price": "\u00a312.95",
     "description": "Peppery hit chettinad (South Indian) chicken or lamb curry with lots of fresh coriander, hot bullet chilli, ginger, black pepper & sweet smashed pineapple and lots of chana dall.",
-    "allergens": []
-   },
-   {
-    "name": "Chicken",
-    "price": "\u00a312.95",
-    "description": "",
-    "allergens": []
-   },
-   {
-    "name": "Lamb",
-    "price": "\u00a312.95",
-    "description": "",
-    "allergens": []
-   },
-   {
-    "name": "Beef",
-    "price": "\u00a312.95",
-    "description": "",
-    "allergens": []
+    "allergens": [],
+    "variants": [
+     {
+      "name": "Chicken",
+      "price": "\u00a312.95"
+     },
+     {
+      "name": "Lamb",
+      "price": "\u00a312.95"
+     },
+     {
+      "name": "Beef",
+      "price": "\u00a312.95"
+     }
+    ]
    },
    {
     "name": "West Meets East",
@@ -934,109 +846,93 @@
     "name": "North Indian Garlic Chilli",
     "price": "\u00a312.95",
     "description": "Chicken, lamb or beef cooked with whole ginger, garlic, green chilli, fresh coriander, spring onion and curry leaves.",
-    "allergens": []
-   },
-   {
-    "name": "Chicken",
-    "price": "\u00a312.95",
-    "description": "",
-    "allergens": []
-   },
-   {
-    "name": "Lamb",
-    "price": "\u00a312.95",
-    "description": "",
-    "allergens": []
-   },
-   {
-    "name": "Beef",
-    "price": "\u00a312.95",
-    "description": "",
-    "allergens": []
+    "allergens": [],
+    "variants": [
+     {
+      "name": "Chicken",
+      "price": "\u00a312.95"
+     },
+     {
+      "name": "Lamb",
+      "price": "\u00a312.95"
+     },
+     {
+      "name": "Beef",
+      "price": "\u00a312.95"
+     }
+    ]
    },
    {
     "name": "Makhani",
     "price": "\u00a312.95",
     "description": "",
-    "allergens": []
-   },
-   {
-    "name": "Chicken Tikka",
-    "price": "\u00a312.95",
-    "description": "",
-    "allergens": []
-   },
-   {
-    "name": "Lamb Tikka",
-    "price": "\u00a312.95",
-    "description": "",
-    "allergens": []
+    "allergens": [],
+    "variants": [
+     {
+      "name": "Chicken Tikka",
+      "price": "\u00a312.95"
+     },
+     {
+      "name": "Lamb Tikka",
+      "price": "\u00a312.95"
+     }
+    ]
    },
    {
     "name": "Shogondha",
     "price": "\u00a310.95",
     "description": "",
-    "allergens": []
-   },
-   {
-    "name": "Chicken Tikka",
-    "price": "\u00a310.95",
-    "description": "",
-    "allergens": []
-   },
-   {
-    "name": "Lamb Tikka",
-    "price": "\u00a310.95",
-    "description": "",
-    "allergens": []
+    "allergens": [],
+    "variants": [
+     {
+      "name": "Chicken Tikka",
+      "price": "\u00a310.95"
+     },
+     {
+      "name": "Lamb Tikka",
+      "price": "\u00a310.95"
+     }
+    ]
    },
    {
     "name": "Balti Jalfrezi",
     "price": "\u00a313.95",
     "description": "",
-    "allergens": []
-   },
-   {
-    "name": "Chicken Tikka",
-    "price": "\u00a313.95",
-    "description": "",
-    "allergens": []
-   },
-   {
-    "name": "Lamb Tikka",
-    "price": "\u00a313.95",
-    "description": "",
-    "allergens": []
-   },
-   {
-    "name": "Beef",
-    "price": "\u00a313.95",
-    "description": "",
-    "allergens": []
+    "allergens": [],
+    "variants": [
+     {
+      "name": "Chicken Tikka",
+      "price": "\u00a313.95"
+     },
+     {
+      "name": "Lamb Tikka",
+      "price": "\u00a313.95"
+     },
+     {
+      "name": "Beef",
+      "price": "\u00a313.95"
+     }
+    ]
    },
    {
     "name": "Mangalorean Korrigassi",
     "price": "\u00a313.95",
     "description": "A delectable curry with flavours coconut, mustard seeds, curry leaves roasted chillies & tamarind. Hot",
-    "allergens": []
-   },
-   {
-    "name": "Chicken",
-    "price": "\u00a313.95",
-    "description": "",
-    "allergens": []
-   },
-   {
-    "name": "Lamb",
-    "price": "\u00a313.95",
-    "description": "",
-    "allergens": []
-   },
-   {
-    "name": "Beef",
-    "price": "\u00a313.95",
-    "description": "",
-    "allergens": []
+    "allergens": [],
+    "variants": [
+     {
+      "name": "Chicken",
+      "price": "\u00a313.95"
+     },
+     {
+      "name": "Lamb",
+      "price": "\u00a313.95"
+     },
+     {
+      "name": "Beef",
+      "price": "\u00a313.95"
+     }
+    ]
    },
    {
     "name": "Safron Chicken",
@@ -1048,19 +944,17 @@
     "name": "Delight",
     "price": "\u00a312.95",
     "description": "Chef's own recipe",
-    "allergens": []
-   },
-   {
-    "name": "Chicken",
-    "price": "\u00a312.95",
-    "description": "",
-    "allergens": []
-   },
-   {
-    "name": "Lamb",
-    "price": "\u00a312.95",
-    "description": "",
-    "allergens": []
+    "allergens": [],
+    "variants": [
+     {
+      "name": "Chicken",
+      "price": "\u00a312.95"
+     },
+     {
+      "name": "Lamb",
+      "price": "\u00a312.95"
+     }
+    ]
    },
    {
     "name": "Beef",
@@ -1110,19 +1004,17 @@
     "name": "Tikka Jalfrezi",
     "price": "\u00a312.95",
     "description": "",
-    "allergens": []
-   },
-   {
-    "name": "Chicken",
-    "price": "\u00a312.95",
-    "description": "",
-    "allergens": []
-   },
-   {
-    "name": "Lamb",
-    "price": "\u00a312.95",
-    "description": "",
-    "allergens": []
+    "allergens": [],
+    "variants": [
+     {
+      "name": "Chicken",
+      "price": "\u00a312.95"
+     },
+     {
+      "name": "Lamb",
+      "price": "\u00a312.95"
+     }
+    ]
    },
    {
     "name": "Tandoori King Prawn Jalfrezi",
@@ -1136,13 +1028,13 @@
     "name": "Shashlick Jalfrezi",
     "price": "\u00a313.95",
     "description": "",
-    "allergens": []
-   },
-   {
-    "name": "Chicken",
-    "price": "\u00a313.95",
-    "description": "",
-    "allergens": []
+    "allergens": [],
+    "variants": [
+     {
+      "name": "Chicken",
+      "price": "\u00a313.95"
+     }
+    ]
    },
    {
     "name": "Lamb",
@@ -1222,13 +1114,13 @@
     "description": "Served with whole egg.",
     "allergens": [
      "Egg"
+    ],
+    "variants": [
+     {
+      "name": "Chicken",
+      "price": "\u00a313.95"
+     }
     ]
-   },
-   {
-    "name": "Chicken",
-    "price": "\u00a313.95",
-    "description": "",
-    "allergens": []
    },
    {
     "name": "Lamb",
@@ -1264,19 +1156,17 @@
     "name": "Tikka Korai",
     "price": "\u00a312.95",
     "description": "",
-    "allergens": []
-   },
-   {
-    "name": "Chicken",
-    "price": "\u00a312.95",
-    "description": "",
-    "allergens": []
-   },
-   {
-    "name": "Lamb",
-    "price": "\u00a312.95",
-    "description": "",
-    "allergens": []
+    "allergens": [],
+    "variants": [
+     {
+      "name": "Chicken",
+      "price": "\u00a312.95"
+     },
+     {
+      "name": "Lamb",
+      "price": "\u00a312.95"
+     }
+    ]
    },
    {
     "name": "Multi Vegetable Korai",
@@ -1296,43 +1186,37 @@
     "name": "Shashlick Korai",
     "price": "\u00a314.95",
     "description": "Medium mixed tomatoes. Onions, green pepper and fresh coriander. Barbecued in a clay oven & served in a thick sauce.",
-    "allergens": []
-   },
-   {
-    "name": "Chicken",
-    "price": "\u00a314.95",
-    "description": "",
-    "allergens": []
-   },
-   {
-    "name": "Lamb",
-    "price": "\u00a314.95",
-    "description": "",
-    "allergens": []
+    "allergens": [],
+    "variants": [
+     {
+      "name": "Chicken",
+      "price": "\u00a314.95"
+     },
+     {
+      "name": "Lamb",
+      "price": "\u00a314.95"
+     }
+    ]
    },
    {
     "name": "Balti Korai",
     "price": "\u00a314.95",
     "description": "",
-    "allergens": []
-   },
-   {
-    "name": "Chicken Tikka",
-    "price": "\u00a314.95",
-    "description": "",
-    "allergens": []
-   },
-   {
-    "name": "Lamb Tikka",
-    "price": "\u00a314.95",
-    "description": "",
-    "allergens": []
-   },
-   {
-    "name": "Beef",
-    "price": "\u00a314.95",
-    "description": "",
-    "allergens": []
+    "allergens": [],
+    "variants": [
+     {
+      "name": "Chicken Tikka",
+      "price": "\u00a314.95"
+     },
+     {
+      "name": "Lamb Tikka",
+      "price": "\u00a314.95"
+     },
+     {
+      "name": "Beef",
+      "price": "\u00a314.95"
+     }
+    ]
    },
    {
     "name": "Cinnamon Special Korai",
@@ -1392,37 +1276,33 @@
     "name": "Tikka Balti",
     "price": "\u00a313.95",
     "description": "",
-    "allergens": []
-   },
-   {
-    "name": "Chicken",
-    "price": "\u00a313.95",
-    "description": "",
-    "allergens": []
-   },
-   {
-    "name": "Lamb",
-    "price": "\u00a313.95",
-    "description": "",
-    "allergens": []
+    "allergens": [],
+    "variants": [
+     {
+      "name": "Chicken",
+      "price": "\u00a313.95"
+     },
+     {
+      "name": "Lamb",
+      "price": "\u00a313.95"
+     }
+    ]
    },
    {
     "name": "Shashlick Balti",
     "price": "\u00a314.95",
     "description": "",
-    "allergens": []
-   },
-   {
-    "name": "Chicken",
-    "price": "\u00a314.95",
-    "description": "",
-    "allergens": []
-   },
-   {
-    "name": "Lamb",
-    "price": "\u00a314.95",
-    "description": "",
-    "allergens": []
+    "allergens": [],
+    "variants": [
+     {
+      "name": "Chicken",
+      "price": "\u00a314.95"
+     },
+     {
+      "name": "Lamb",
+      "price": "\u00a314.95"
+     }
+    ]
    },
    {
     "name": "Cinnamon Special Balti",
@@ -1436,19 +1316,17 @@
     "name": "Tikka Massala",
     "price": "\u00a311.95",
     "description": "",
-    "allergens": []
-   },
-   {
-    "name": "Chicken",
-    "price": "\u00a311.95",
-    "description": "",
-    "allergens": []
-   },
-   {
-    "name": "Lamb",
-    "price": "\u00a311.95",
-    "description": "",
-    "allergens": []
+    "allergens": [],
+    "variants": [
+     {
+      "name": "Chicken",
+      "price": "\u00a311.95"
+     },
+     {
+      "name": "Lamb",
+      "price": "\u00a311.95"
+     }
+    ]
    },
    {
     "name": "Tandoori King Prawn Massala",
@@ -1462,19 +1340,17 @@
     "name": "Shashlick Massala",
     "price": "\u00a314.95",
     "description": "Chef's own recipe. Medium hot with a fairly thick sauce.",
-    "allergens": []
-   },
-   {
-    "name": "Chicken",
-    "price": "\u00a314.95",
-    "description": "",
-    "allergens": []
-   },
-   {
-    "name": "Lamb",
-    "price": "\u00a314.95",
-    "description": "",
-    "allergens": []
+    "allergens": [],
+    "variants": [
+     {
+      "name": "Chicken",
+      "price": "\u00a314.95"
+     },
+     {
+      "name": "Lamb",
+      "price": "\u00a314.95"
+     }
+    ]
    },
    {
     "name": "Rip Ponir Chilli Massala",
@@ -1486,25 +1362,21 @@
     "name": "Green Massala",
     "price": "\u00a312.95",
     "description": "Cooked with coriander spicy and hot",
-    "allergens": []
-   },
-   {
-    "name": "Chicken",
-    "price": "\u00a312.95",
-    "description": "",
-    "allergens": []
-   },
-   {
-    "name": "Lamb",
-    "price": "\u00a312.95",
-    "description": "",
-    "allergens": []
-   },
-   {
-    "name": "Beef",
-    "price": "\u00a312.95",
-    "description": "",
-    "allergens": []
+    "allergens": [],
+    "variants": [
+     {
+      "name": "Chicken",
+      "price": "\u00a312.95"
+     },
+     {
+      "name": "Lamb",
+      "price": "\u00a312.95"
+     },
+     {
+      "name": "Beef",
+      "price": "\u00a312.95"
+     }
+    ]
    },
    {
     "name": "Butter Chicken Massala",
@@ -1572,163 +1444,121 @@
     "name": "Bhuna",
     "price": "\u00a39.95",
     "description": "A thoroughly garnished dish with onion, garlic, tomatoes & a few selected spices extensively treated to provide a dish of medium strength. Considered but one of the tastiest.",
-    "allergens": []
-   },
-   {
-    "name": "Chicken",
-    "price": "\u00a310.95",
-    "description": "",
-    "allergens": []
-   },
-   {
-    "name": "Lamb",
-    "price": "\u00a310.95",
-    "description": "",
-    "allergens": []
-   },
-   {
-    "name": "Prawn",
-    "price": "\u00a311.95",
-    "description": "",
-    "allergens": []
-   },
-   {
-    "name": "Vegetable",
-    "price": "\u00a39.95",
-    "description": "",
-    "allergens": []
-   },
-   {
-    "name": "Beef",
-    "price": "\u00a312.95",
-    "description": "",
-    "allergens": []
-   },
-   {
-    "name": "King Prawn",
-    "price": "\u00a314.95",
-    "description": "",
-    "allergens": []
-   },
-   {
-    "name": "Mushroom",
-    "price": "\u00a39.95",
-    "description": "",
-    "allergens": []
-   },
-   {
-    "name": "Khushboo",
-    "price": "\u00a311.95",
-    "description": "",
-    "allergens": []
+    "allergens": [],
+    "variants": [
+     {
+      "name": "Chicken",
+      "price": "\u00a310.95"
+     },
+     {
+      "name": "Lamb",
+      "price": "\u00a310.95"
+     },
+     {
+      "name": "Prawn",
+      "price": "\u00a311.95"
+     },
+     {
+      "name": "Vegetable",
+      "price": "\u00a39.95"
+     },
+     {
+      "name": "Beef",
+      "price": "\u00a312.95"
+     },
+     {
+      "name": "King Prawn",
+      "price": "\u00a314.95"
+     },
+     {
+      "name": "Mushroom",
+      "price": "\u00a39.95"
+     },
+     {
+      "name": "Khushboo",
+      "price": "\u00a311.95"
+     }
+    ]
    },
    {
     "name": "Madras",
     "price": "\u00a39.95",
     "description": "Another popular dish of the Southern Indian origin. A rich, fairly hot, extensively Prepared with garlic, chilli and tomato puree.",
-    "allergens": []
-   },
-   {
-    "name": "Chicken",
-    "price": "\u00a310.95",
-    "description": "",
-    "allergens": []
-   },
-   {
-    "name": "Lamb",
-    "price": "\u00a310.95",
-    "description": "",
-    "allergens": []
-   },
-   {
-    "name": "Prawn",
-    "price": "\u00a311.95",
-    "description": "",
-    "allergens": []
-   },
-   {
-    "name": "Mushroom",
-    "price": "\u00a39.95",
-    "description": "",
-    "allergens": []
-   },
-   {
-    "name": "Beef",
-    "price": "\u00a312.95",
-    "description": "",
-    "allergens": []
-   },
-   {
-    "name": "King Prawn",
-    "price": "\u00a314.95",
-    "description": "",
-    "allergens": []
-   },
-   {
-    "name": "Vegetable",
-    "price": "\u00a39.95",
-    "description": "",
-    "allergens": []
-   },
-   {
-    "name": "Khushboo",
-    "price": "\u00a311.95",
-    "description": "",
-    "allergens": []
+    "allergens": [],
+    "variants": [
+     {
+      "name": "Chicken",
+      "price": "\u00a310.95"
+     },
+     {
+      "name": "Lamb",
+      "price": "\u00a310.95"
+     },
+     {
+      "name": "Prawn",
+      "price": "\u00a311.95"
+     },
+     {
+      "name": "Mushroom",
+      "price": "\u00a39.95"
+     },
+     {
+      "name": "Beef",
+      "price": "\u00a312.95"
+     },
+     {
+      "name": "King Prawn",
+      "price": "\u00a314.95"
+     },
+     {
+      "name": "Vegetable",
+      "price": "\u00a39.95"
+     },
+     {
+      "name": "Khushboo",
+      "price": "\u00a311.95"
+     }
+    ]
    },
    {
     "name": "Vindaloo",
     "price": "\u00a39.95",
     "description": "A fiery dish from Goa. There is only one word that adequately describes this dish. Hot",
-    "allergens": []
-   },
-   {
-    "name": "Chicken",
-    "price": "\u00a310.95",
-    "description": "",
-    "allergens": []
-   },
-   {
-    "name": "Lamb",
-    "price": "\u00a310.95",
-    "description": "",
-    "allergens": []
-   },
-   {
-    "name": "Prawn",
-    "price": "\u00a311.95",
-    "description": "",
-    "allergens": []
-   },
-   {
-    "name": "Mushroom",
-    "price": "\u00a39.95",
-    "description": "",
-    "allergens": []
-   },
-   {
-    "name": "Beef",
-    "price": "\u00a312.95",
-    "description": "",
-    "allergens": []
-   },
-   {
-    "name": "King Prawn",
-    "price": "\u00a314.95",
-    "description": "",
-    "allergens": []
-   },
-   {
-    "name": "Vegetable",
-    "price": "\u00a39.95",
-    "description": "",
-    "allergens": []
-   },
-   {
-    "name": "Khushboo",
-    "price": "\u00a311.95",
-    "description": "",
-    "allergens": []
+    "allergens": [],
+    "variants": [
+     {
+      "name": "Chicken",
+      "price": "\u00a310.95"
+     },
+     {
+      "name": "Lamb",
+      "price": "\u00a310.95"
+     },
+     {
+      "name": "Prawn",
+      "price": "\u00a311.95"
+     },
+     {
+      "name": "Mushroom",
+      "price": "\u00a39.95"
+     },
+     {
+      "name": "Beef",
+      "price": "\u00a312.95"
+     },
+     {
+      "name": "King Prawn",
+      "price": "\u00a314.95"
+     },
+     {
+      "name": "Vegetable",
+      "price": "\u00a39.95"
+     },
+     {
+      "name": "Khushboo",
+      "price": "\u00a311.95"
+     }
+    ]
    },
    {
     "name": "Korma",
@@ -1736,433 +1566,321 @@
     "description": "Most suitable for beginners. A delicate preparation of cream and spices producing a very mild but rich creamy texture. A flavour palatable for every constitution.",
     "allergens": [
      "Milk"
+    ],
+    "variants": [
+     {
+      "name": "Chicken",
+      "price": "\u00a310.95"
+     },
+     {
+      "name": "Lamb",
+      "price": "\u00a310.95"
+     },
+     {
+      "name": "Mushroom",
+      "price": "\u00a39.95"
+     },
+     {
+      "name": "Prawn",
+      "price": "\u00a311.95"
+     },
+     {
+      "name": "Vegetable",
+      "price": "\u00a39.95"
+     },
+     {
+      "name": "Beef",
+      "price": "\u00a312.95"
+     },
+     {
+      "name": "King Prawn",
+      "price": "\u00a314.95"
+     },
+     {
+      "name": "Khushboo",
+      "price": "\u00a311.95"
+     }
     ]
-   },
-   {
-    "name": "Chicken",
-    "price": "\u00a310.95",
-    "description": "",
-    "allergens": []
-   },
-   {
-    "name": "Lamb",
-    "price": "\u00a310.95",
-    "description": "",
-    "allergens": []
-   },
-   {
-    "name": "Mushroom",
-    "price": "\u00a39.95",
-    "description": "",
-    "allergens": []
-   },
-   {
-    "name": "Prawn",
-    "price": "\u00a311.95",
-    "description": "",
-    "allergens": []
-   },
-   {
-    "name": "Vegetable",
-    "price": "\u00a39.95",
-    "description": "",
-    "allergens": []
-   },
-   {
-    "name": "Beef",
-    "price": "\u00a312.95",
-    "description": "",
-    "allergens": []
-   },
-   {
-    "name": "King Prawn",
-    "price": "\u00a314.95",
-    "description": "",
-    "allergens": []
-   },
-   {
-    "name": "Khushboo",
-    "price": "\u00a311.95",
-    "description": "",
-    "allergens": []
    },
    {
     "name": "Dupiaza",
     "price": "\u00a39.95",
     "description": "Medium dish, prepared with diced onions and peppers, seasoned in ginger and coriander.",
-    "allergens": []
-   },
-   {
-    "name": "Chicken",
-    "price": "\u00a310.95",
-    "description": "",
-    "allergens": []
-   },
-   {
-    "name": "Lamb",
-    "price": "\u00a310.95",
-    "description": "",
-    "allergens": []
-   },
-   {
-    "name": "Prawn",
-    "price": "\u00a311.95",
-    "description": "",
-    "allergens": []
-   },
-   {
-    "name": "Mushroom",
-    "price": "\u00a39.95",
-    "description": "",
-    "allergens": []
-   },
-   {
-    "name": "Beef",
-    "price": "\u00a312.95",
-    "description": "",
-    "allergens": []
-   },
-   {
-    "name": "King Prawn",
-    "price": "\u00a314.95",
-    "description": "",
-    "allergens": []
-   },
-   {
-    "name": "Vegetable",
-    "price": "\u00a39.95",
-    "description": "",
-    "allergens": []
-   },
-   {
-    "name": "Khushboo",
-    "price": "\u00a311.95",
-    "description": "",
-    "allergens": []
+    "allergens": [],
+    "variants": [
+     {
+      "name": "Chicken",
+      "price": "\u00a310.95"
+     },
+     {
+      "name": "Lamb",
+      "price": "\u00a310.95"
+     },
+     {
+      "name": "Prawn",
+      "price": "\u00a311.95"
+     },
+     {
+      "name": "Mushroom",
+      "price": "\u00a39.95"
+     },
+     {
+      "name": "Beef",
+      "price": "\u00a312.95"
+     },
+     {
+      "name": "King Prawn",
+      "price": "\u00a314.95"
+     },
+     {
+      "name": "Vegetable",
+      "price": "\u00a39.95"
+     },
+     {
+      "name": "Khushboo",
+      "price": "\u00a311.95"
+     }
+    ]
    },
    {
     "name": "Rogon Josh",
     "price": "\u00a39.95",
     "description": "The classic curry of Kashmir, braised in a concentrated broth and finished in a rich gravy of tomatoes and a myriad of spices that provide a host of suitable flavours. Hot",
-    "allergens": []
-   },
-   {
-    "name": "Chicken",
-    "price": "\u00a310.95",
-    "description": "",
-    "allergens": []
-   },
-   {
-    "name": "Lamb",
-    "price": "\u00a310.95",
-    "description": "",
-    "allergens": []
-   },
-   {
-    "name": "Prawn",
-    "price": "\u00a311.95",
-    "description": "",
-    "allergens": []
-   },
-   {
-    "name": "Mushroom",
-    "price": "\u00a39.95",
-    "description": "",
-    "allergens": []
-   },
-   {
-    "name": "Beef",
-    "price": "\u00a312.95",
-    "description": "",
-    "allergens": []
-   },
-   {
-    "name": "King Prawn",
-    "price": "\u00a314.95",
-    "description": "",
-    "allergens": []
-   },
-   {
-    "name": "Vegetable",
-    "price": "\u00a39.95",
-    "description": "",
-    "allergens": []
-   },
-   {
-    "name": "Khushboo",
-    "price": "\u00a311.95",
-    "description": "",
-    "allergens": []
+    "allergens": [],
+    "variants": [
+     {
+      "name": "Chicken",
+      "price": "\u00a310.95"
+     },
+     {
+      "name": "Lamb",
+      "price": "\u00a310.95"
+     },
+     {
+      "name": "Prawn",
+      "price": "\u00a311.95"
+     },
+     {
+      "name": "Mushroom",
+      "price": "\u00a39.95"
+     },
+     {
+      "name": "Beef",
+      "price": "\u00a312.95"
+     },
+     {
+      "name": "King Prawn",
+      "price": "\u00a314.95"
+     },
+     {
+      "name": "Vegetable",
+      "price": "\u00a39.95"
+     },
+     {
+      "name": "Khushboo",
+      "price": "\u00a311.95"
+     }
+    ]
    },
    {
     "name": "Saagwala",
     "price": "\u00a39.95",
     "description": "Cooked with delightfully simple green masala spinach, mint & spiced with green cardamoms, pepper, coriander leaves and cloves.",
-    "allergens": []
-   },
-   {
-    "name": "Chicken",
-    "price": "\u00a310.95",
-    "description": "",
-    "allergens": []
-   },
-   {
-    "name": "Lamb",
-    "price": "\u00a310.95",
-    "description": "",
-    "allergens": []
-   },
-   {
-    "name": "Prawn",
-    "price": "\u00a311.95",
-    "description": "",
-    "allergens": []
-   },
-   {
-    "name": "Mushroom",
-    "price": "\u00a39.95",
-    "description": "",
-    "allergens": []
-   },
-   {
-    "name": "Beef",
-    "price": "\u00a312.95",
-    "description": "",
-    "allergens": []
-   },
-   {
-    "name": "King Prawn",
-    "price": "\u00a314.95",
-    "description": "",
-    "allergens": []
-   },
-   {
-    "name": "Vegetable",
-    "price": "\u00a39.95",
-    "description": "",
-    "allergens": []
-   },
-   {
-    "name": "Khushboo",
-    "price": "\u00a311.95",
-    "description": "",
-    "allergens": []
+    "allergens": [],
+    "variants": [
+     {
+      "name": "Chicken",
+      "price": "\u00a310.95"
+     },
+     {
+      "name": "Lamb",
+      "price": "\u00a310.95"
+     },
+     {
+      "name": "Prawn",
+      "price": "\u00a311.95"
+     },
+     {
+      "name": "Mushroom",
+      "price": "\u00a39.95"
+     },
+     {
+      "name": "Beef",
+      "price": "\u00a312.95"
+     },
+     {
+      "name": "King Prawn",
+      "price": "\u00a314.95"
+     },
+     {
+      "name": "Vegetable",
+      "price": "\u00a39.95"
+     },
+     {
+      "name": "Khushboo",
+      "price": "\u00a311.95"
+     }
+    ]
    },
    {
     "name": "Methi",
     "price": "\u00a39.95",
     "description": "Cooked with fenugreek leaves. Medium hot",
-    "allergens": []
-   },
-   {
-    "name": "Chicken",
-    "price": "\u00a310.95",
-    "description": "",
-    "allergens": []
-   },
-   {
-    "name": "Lamb",
-    "price": "\u00a310.95",
-    "description": "",
-    "allergens": []
-   },
-   {
-    "name": "Prawn",
-    "price": "\u00a311.95",
-    "description": "",
-    "allergens": []
-   },
-   {
-    "name": "Mushroom",
-    "price": "\u00a39.95",
-    "description": "",
-    "allergens": []
-   },
-   {
-    "name": "Beef",
-    "price": "\u00a312.95",
-    "description": "",
-    "allergens": []
-   },
-   {
-    "name": "King Prawn",
-    "price": "\u00a314.95",
-    "description": "",
-    "allergens": []
-   },
-   {
-    "name": "Vegetable",
-    "price": "\u00a39.95",
-    "description": "",
-    "allergens": []
-   },
-   {
-    "name": "Khushboo",
-    "price": "\u00a311.95",
-    "description": "",
-    "allergens": []
+    "allergens": [],
+    "variants": [
+     {
+      "name": "Chicken",
+      "price": "\u00a310.95"
+     },
+     {
+      "name": "Lamb",
+      "price": "\u00a310.95"
+     },
+     {
+      "name": "Prawn",
+      "price": "\u00a311.95"
+     },
+     {
+      "name": "Mushroom",
+      "price": "\u00a39.95"
+     },
+     {
+      "name": "Beef",
+      "price": "\u00a312.95"
+     },
+     {
+      "name": "King Prawn",
+      "price": "\u00a314.95"
+     },
+     {
+      "name": "Vegetable",
+      "price": "\u00a39.95"
+     },
+     {
+      "name": "Khushboo",
+      "price": "\u00a311.95"
+     }
+    ]
    },
    {
     "name": "Dansak",
     "price": "\u00a39.95",
     "description": "A spiced, sweet citric sauce with lentils producing a medley of hot, sweet and sour teste.",
-    "allergens": []
-   },
-   {
-    "name": "Chicken",
-    "price": "\u00a310.95",
-    "description": "",
-    "allergens": []
-   },
-   {
-    "name": "Lamb",
-    "price": "\u00a310.95",
-    "description": "",
-    "allergens": []
-   },
-   {
-    "name": "Prawn",
-    "price": "\u00a311.95",
-    "description": "",
-    "allergens": []
-   },
-   {
-    "name": "Mushroom",
-    "price": "\u00a39.95",
-    "description": "",
-    "allergens": []
-   },
-   {
-    "name": "Beef",
-    "price": "\u00a312.95",
-    "description": "",
-    "allergens": []
-   },
-   {
-    "name": "King Prawn",
-    "price": "\u00a314.95",
-    "description": "",
-    "allergens": []
-   },
-   {
-    "name": "Vegetable",
-    "price": "\u00a39.95",
-    "description": "",
-    "allergens": []
-   },
-   {
-    "name": "Khushboo",
-    "price": "\u00a311.95",
-    "description": "",
-    "allergens": []
+    "allergens": [],
+    "variants": [
+     {
+      "name": "Chicken",
+      "price": "\u00a310.95"
+     },
+     {
+      "name": "Lamb",
+      "price": "\u00a310.95"
+     },
+     {
+      "name": "Prawn",
+      "price": "\u00a311.95"
+     },
+     {
+      "name": "Mushroom",
+      "price": "\u00a39.95"
+     },
+     {
+      "name": "Beef",
+      "price": "\u00a312.95"
+     },
+     {
+      "name": "King Prawn",
+      "price": "\u00a314.95"
+     },
+     {
+      "name": "Vegetable",
+      "price": "\u00a39.95"
+     },
+     {
+      "name": "Khushboo",
+      "price": "\u00a311.95"
+     }
+    ]
    },
    {
     "name": "Pathia",
     "price": "\u00a39.95",
     "description": "Garlic, onion, tomato puree, red chilli, coconut powder and lemon are extensively used to give a hot flavour.",
-    "allergens": []
-   },
-   {
-    "name": "Chicken",
-    "price": "\u00a310.95",
-    "description": "",
-    "allergens": []
-   },
-   {
-    "name": "Lamb",
-    "price": "\u00a310.95",
-    "description": "",
-    "allergens": []
-   },
-   {
-    "name": "Prawn",
-    "price": "\u00a311.95",
-    "description": "",
-    "allergens": []
-   },
-   {
-    "name": "Mushroom",
-    "price": "\u00a39.95",
-    "description": "",
-    "allergens": []
-   },
-   {
-    "name": "Beef",
-    "price": "\u00a312.95",
-    "description": "",
-    "allergens": []
-   },
-   {
-    "name": "King Prawn",
-    "price": "\u00a314.95",
-    "description": "",
-    "allergens": []
-   },
-   {
-    "name": "Vegetable",
-    "price": "\u00a39.95",
-    "description": "",
-    "allergens": []
-   },
-   {
-    "name": "Khushboo",
-    "price": "\u00a311.95",
-    "description": "",
-    "allergens": []
+    "allergens": [],
+    "variants": [
+     {
+      "name": "Chicken",
+      "price": "\u00a310.95"
+     },
+     {
+      "name": "Lamb",
+      "price": "\u00a310.95"
+     },
+     {
+      "name": "Prawn",
+      "price": "\u00a311.95"
+     },
+     {
+      "name": "Mushroom",
+      "price": "\u00a39.95"
+     },
+     {
+      "name": "Beef",
+      "price": "\u00a312.95"
+     },
+     {
+      "name": "King Prawn",
+      "price": "\u00a314.95"
+     },
+     {
+      "name": "Vegetable",
+      "price": "\u00a39.95"
+     },
+     {
+      "name": "Khushboo",
+      "price": "\u00a311.95"
+     }
+    ]
    },
    {
     "name": "Black Pepper and Mint",
     "price": "\u00a39.95",
     "description": "Cooked with dry mint, stir fried sauteed with onion, black pepper and mint, spicy and hot.",
-    "allergens": []
-   },
-   {
-    "name": "Chicken",
-    "price": "\u00a310.95",
-    "description": "",
-    "allergens": []
-   },
-   {
-    "name": "Lamb",
-    "price": "\u00a310.95",
-    "description": "",
-    "allergens": []
-   },
-   {
-    "name": "Prawn",
-    "price": "\u00a311.95",
-    "description": "",
-    "allergens": []
-   },
-   {
-    "name": "Vegetable",
-    "price": "\u00a39.95",
-    "description": "",
-    "allergens": []
-   },
-   {
-    "name": "Mushroom",
-    "price": "\u00a39.95",
-    "description": "",
-    "allergens": []
-   },
-   {
-    "name": "King Prawn",
-    "price": "\u00a314.95",
-    "description": "",
-    "allergens": []
-   },
-   {
-    "name": "Beef",
-    "price": "\u00a312.95",
-    "description": "",
-    "allergens": []
-   },
-   {
-    "name": "Khushboo",
-    "price": "\u00a311.95",
-    "description": "",
-    "allergens": []
+    "allergens": [],
+    "variants": [
+     {
+      "name": "Chicken",
+      "price": "\u00a310.95"
+     },
+     {
+      "name": "Lamb",
+      "price": "\u00a310.95"
+     },
+     {
+      "name": "Prawn",
+      "price": "\u00a311.95"
+     },
+     {
+      "name": "Vegetable",
+      "price": "\u00a39.95"
+     },
+     {
+      "name": "Mushroom",
+      "price": "\u00a39.95"
+     },
+     {
+      "name": "King Prawn",
+      "price": "\u00a314.95"
+     },
+     {
+      "name": "Beef",
+      "price": "\u00a312.95"
+     },
+     {
+      "name": "Khushboo",
+      "price": "\u00a311.95"
+     }
+    ]
    }
   ]
  },
@@ -2295,19 +2013,17 @@
     "name": "Tikka Pasanda",
     "price": "\u00a312.95",
     "description": "",
-    "allergens": []
-   },
-   {
-    "name": "Chicken",
-    "price": "\u00a312.95",
-    "description": "",
-    "allergens": []
-   },
-   {
-    "name": "Lamb",
-    "price": "\u00a312.95",
-    "description": "",
-    "allergens": []
+    "allergens": [],
+    "variants": [
+     {
+      "name": "Chicken",
+      "price": "\u00a312.95"
+     },
+     {
+      "name": "Lamb",
+      "price": "\u00a312.95"
+     }
+    ]
    },
    {
     "name": "Tandoori King Prawn Pasanda",
@@ -2321,19 +2037,17 @@
     "name": "Shashlick Pasanda",
     "price": "\u00a314.95",
     "description": "",
-    "allergens": []
-   },
-   {
-    "name": "Chicken",
-    "price": "\u00a314.95",
-    "description": "",
-    "allergens": []
-   },
-   {
-    "name": "Lamb",
-    "price": "\u00a314.95",
-    "description": "",
-    "allergens": []
+    "allergens": [],
+    "variants": [
+     {
+      "name": "Chicken",
+      "price": "\u00a314.95"
+     },
+     {
+      "name": "Lamb",
+      "price": "\u00a314.95"
+     }
+    ]
    },
    {
     "name": "Ponir Pasanda",
@@ -2359,19 +2073,17 @@
     "name": "Shashlick Makhani Pasanda",
     "price": "\u00a314.95",
     "description": "An aromatic makhani dish made with almonds and cashews, cream and butter with coconut powder. MilkNuts",
-    "allergens": []
-   },
-   {
-    "name": "Chicken",
-    "price": "\u00a314.95",
-    "description": "",
-    "allergens": []
-   },
-   {
-    "name": "Lamb",
-    "price": "\u00a314.95",
-    "description": "",
-    "allergens": []
+    "allergens": [],
+    "variants": [
+     {
+      "name": "Chicken",
+      "price": "\u00a314.95"
+     },
+     {
+      "name": "Lamb",
+      "price": "\u00a314.95"
+     }
+    ]
    }
   ]
  },
@@ -2501,19 +2213,17 @@
     "name": "Raitha",
     "price": "\u00a33.00",
     "description": "",
-    "allergens": []
-   },
-   {
-    "name": "Cucumber",
-    "price": "\u00a33.00",
-    "description": "",
-    "allergens": []
-   },
-   {
-    "name": "Onion",
-    "price": "\u00a33.00",
-    "description": "",
-    "allergens": []
+    "allergens": [],
+    "variants": [
+     {
+      "name": "Cucumber",
+      "price": "\u00a33.00"
+     },
+     {
+      "name": "Onion",
+      "price": "\u00a33.00"
+     }
+    ]
    },
    {
     "name": "Green Salad",
@@ -2557,31 +2267,25 @@
     "name": "Sauce",
     "price": "\u00a34.50",
     "description": "",
-    "allergens": []
-   },
-   {
-    "name": "Curry",
-    "price": "\u00a34.50",
-    "description": "",
-    "allergens": []
-   },
-   {
-    "name": "Korma",
-    "price": "\u00a34.50",
-    "description": "",
-    "allergens": []
-   },
-   {
-    "name": "Vindaloo",
-    "price": "\u00a34.50",
-    "description": "",
-    "allergens": []
-   },
-   {
-    "name": "Masala",
-    "price": "\u00a34.50",
-    "description": "",
-    "allergens": []
+    "allergens": [],
+    "variants": [
+     {
+      "name": "Curry",
+      "price": "\u00a34.50"
+     },
+     {
+      "name": "Korma",
+      "price": "\u00a34.50"
+     },
+     {
+      "name": "Vindaloo",
+      "price": "\u00a34.50"
+     },
+     {
+      "name": "Masala",
+      "price": "\u00a34.50"
+     }
+    ]
    },
    {
     "name": "Plain Papadom",
