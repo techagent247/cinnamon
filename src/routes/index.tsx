@@ -1,4 +1,4 @@
-import { createFileRoute } from "@tanstack/react-router";
+import { createFileRoute, Link } from "@tanstack/react-router";
 import { CinematicVideo } from "@/components/CinematicVideo";
 import { business, heroVideo, foodVideo, experienceVideo } from "@/lib/cinnamon";
 import gallery1 from "@/assets/gallery-1.jpg";
@@ -32,7 +32,7 @@ function Section({ id, eyebrow, title, children, className = "" }: { id?: string
   );
 }
 
-const menuGroups = ["Starters", "Tandoori Specialities", "Curries", "Chef's Specials", "Biryani", "Vegetarian", "Rice & Naan", "Sundries"];
+const menuGroups = ["Starters", "Chef's Special", "House Specials", "Side Dishes", "Rice", "Sundries", "English Dishes", "Tandoori Bread"];
 
 function Index() {
   return (
@@ -41,7 +41,7 @@ function Index() {
         <div className="mx-auto flex max-w-7xl items-center justify-between px-6 py-6">
           <a href="#" className="font-display text-2xl tracking-[0.3em] text-cream">CINNAMON</a>
           <nav className="hidden gap-8 text-xs uppercase tracking-[0.25em] text-cream/80 md:flex">
-            <a href="#menu" className="hover:text-primary">Menu</a>
+            <Link to="/menu" className="hover:text-primary">Menu</Link>
             <a href="#deals" className="hover:text-primary">Deals</a>
             <a href="#reserve" className="hover:text-primary">Reserve</a>
             <a href="#contact" className="hover:text-primary">Contact</a>
@@ -104,7 +104,7 @@ function Index() {
           <p className="eyebrow">From our kitchen</p>
           <h2 className="mt-4 max-w-3xl text-5xl text-cream md:text-8xl">Fresh. Hot. Full of flavour.</h2>
           <p className="mt-6 text-lg text-cream/85">Our food is served fresh and hot, every time.</p>
-          <a className="btn-gold mt-10" href="#menu">Explore Our Menu</a>
+          <Link className="btn-gold mt-10" to="/menu">Explore Our Menu</Link>
         </div>
       </CinematicVideo>
 
@@ -114,11 +114,11 @@ function Index() {
           {menuGroups.map((g) => (
             <li key={g} className="flex items-baseline justify-between border-b border-border py-5">
               <span className="font-display text-2xl text-cream">{g}</span>
-              <span className="text-xs uppercase tracking-[0.2em] text-muted-foreground">See full menu</span>
+              <Link to="/menu" className="text-xs uppercase tracking-[0.2em] text-muted-foreground hover:text-primary">View</Link>
             </li>
           ))}
         </ul>
-        <a className="btn-gold mt-10" href={business.orderUrl} {...Ext}>View Full Menu & Prices</a>
+        <Link className="btn-gold mt-10" to="/menu">View Full Menu & Prices</Link>
       </Section>
 
       {/* 07 GALLERY */}
